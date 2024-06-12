@@ -19,7 +19,7 @@ This repository contains the code for a web crawler written in Python. It demons
 
 - Clone the repository:
 ~~~bash 
-git clone https://github.com/your-username/python-web-crawler.git
+git clone https://github.com/allthatin/fully_async_crawler.git
 ~~~
 - Install dependencies:
 ~~~bash 
