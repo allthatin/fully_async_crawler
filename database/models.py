@@ -12,4 +12,4 @@ class CrawlingUrl(Base):
     stockdata = Column(JSON, nullable=True)
 
     def __repr__(self):
-        return f"<CrawlingUrl(url='{self.url}', crawled={self.crawled})>"
+        return f"<CrawlingUrl(url='{self.url}', instock={self.instock})>"
